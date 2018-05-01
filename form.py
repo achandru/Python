@@ -13,4 +13,4 @@ cursor.execute(sql,args)
 db.commit()
 cursor.close()
 db.close()
-
+#just for fun
